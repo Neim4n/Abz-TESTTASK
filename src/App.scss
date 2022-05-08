@@ -1,0 +1,47 @@
+@import "style/fonts.css";
+@import "style/nullstyle.css";
+@import "style/variables";
+
+
+body {
+  font-family: "Nunito", sans-serif;
+}
+
+#root{
+  height: 100%;
+}
+
+.wrapper {
+  font-size: 16px;
+  line-height: 26px;
+  width: 100%;
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  @import "style/components/header";
+  @import "style/components/main";
+
+  .button {
+    display: inline-block;
+    font-size: 16px;
+    min-width: 100px;
+    height: 34px;
+    padding: 4px 13px;
+    text-align: center;
+    border-radius: 80px;
+    background: $yellow;
+    transition: 0.3s ease-in-out background-color;
+    color: black;
+
+    &:hover {
+      background: #FFE302;
+    }
+
+    &:disabled {
+      background: #B4B4B4;
+    }
+  }
+
+  //width: 1170px;
+}
