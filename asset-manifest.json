@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Abz-TESTTASK/static/css/main.6b51e262.css",
+    "main.js": "/Abz-TESTTASK/static/js/main.26c29d82.js",
+    "static/js/787.da0a37b8.chunk.js": "/Abz-TESTTASK/static/js/787.da0a37b8.chunk.js",
+    "static/media/home-bg.jpg": "/Abz-TESTTASK/static/media/home-bg.c365818f11533d865d96.jpg",
+    "static/media/success-image.svg": "/Abz-TESTTASK/static/media/success-image.147ff01aeb0caaca03a3a94cfe9c0ce6.svg",
+    "static/media/header-logo.svg": "/Abz-TESTTASK/static/media/header-logo.56bda82bd882001476c0cd3c0dd1e432.svg",
+    "static/media/photo-cover.svg": "/Abz-TESTTASK/static/media/photo-cover.fb98cf13a87225efe558669bdc541ac7.svg",
+    "index.html": "/Abz-TESTTASK/index.html",
+    "main.6b51e262.css.map": "/Abz-TESTTASK/static/css/main.6b51e262.css.map",
+    "main.26c29d82.js.map": "/Abz-TESTTASK/static/js/main.26c29d82.js.map",
+    "787.da0a37b8.chunk.js.map": "/Abz-TESTTASK/static/js/787.da0a37b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b51e262.css",
+    "static/js/main.26c29d82.js"
+  ]
+}
